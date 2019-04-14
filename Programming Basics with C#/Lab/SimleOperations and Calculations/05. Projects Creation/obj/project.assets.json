@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\05. Projects Creation\\05. Projects Creation.csproj",
+      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\05. Projects Creation\\05. Projects Creation.csproj",
       "projectName": "05. Projects Creation",
-      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\05. Projects Creation\\05. Projects Creation.csproj",
+      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\05. Projects Creation\\05. Projects Creation.csproj",
       "packagesPath": "C:\\Users\\yStoykow\\.nuget\\packages\\",
-      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\05. Projects Creation\\obj\\",
+      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\05. Projects Creation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

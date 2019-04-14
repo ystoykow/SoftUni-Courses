@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\03. Square Area\\03. Square Area.csproj",
+      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\03. Square Area\\03. Square Area.csproj",
       "projectName": "03. Square Area",
-      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\03. Square Area\\03. Square Area.csproj",
+      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\03. Square Area\\03. Square Area.csproj",
       "packagesPath": "C:\\Users\\yStoykow\\.nuget\\packages\\",
-      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\03. Square Area\\obj\\",
+      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\03. Square Area\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

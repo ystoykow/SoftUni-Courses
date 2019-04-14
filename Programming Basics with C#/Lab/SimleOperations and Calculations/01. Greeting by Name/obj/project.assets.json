@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\01. Greeting by Name\\01. Greeting by Name.csproj",
+      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\01. Greeting by Name\\01. Greeting by Name.csproj",
       "projectName": "01. Greeting by Name",
-      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\01. Greeting by Name\\01. Greeting by Name.csproj",
+      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\01. Greeting by Name\\01. Greeting by Name.csproj",
       "packagesPath": "C:\\Users\\yStoykow\\.nuget\\packages\\",
-      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\01. Greeting by Name\\obj\\",
+      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\01. Greeting by Name\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

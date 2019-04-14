@@ -1,0 +1,10 @@
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.deps.json
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.runtimeconfig.json
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.runtimeconfig.dev.json
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.dll
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\bin\Debug\netcoreapp2.1\08. Yard Greening.pdb
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.csproj.CoreCompileInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.AssemblyInfoInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.AssemblyInfo.cs
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.dll
+F:\SoftUni-Courses\Programming Basics with C#\Lab\SimleOperations and Calculations\08. Yard Greening\obj\Debug\netcoreapp2.1\08. Yard Greening.pdb

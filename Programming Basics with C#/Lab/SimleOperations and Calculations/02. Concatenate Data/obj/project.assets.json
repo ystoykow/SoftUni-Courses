@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\02. Concatenate Data\\02. Concatenate Data.csproj",
+      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\02. Concatenate Data\\02. Concatenate Data.csproj",
       "projectName": "02. Concatenate Data",
-      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\02. Concatenate Data\\02. Concatenate Data.csproj",
+      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\02. Concatenate Data\\02. Concatenate Data.csproj",
       "packagesPath": "C:\\Users\\yStoykow\\.nuget\\packages\\",
-      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\02. Concatenate Data\\obj\\",
+      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\02. Concatenate Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\04. Inches to Cm\\04. Inches to Cm.csproj",
+      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\04. Inches to Cm\\04. Inches to Cm.csproj",
       "projectName": "04. Inches to Cm",
-      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\04. Inches to Cm\\04. Inches to Cm.csproj",
+      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\04. Inches to Cm\\04. Inches to Cm.csproj",
       "packagesPath": "C:\\Users\\yStoykow\\.nuget\\packages\\",
-      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Programming Basics with C# - Lab\\SimleOperations and Calculations\\04. Inches to Cm\\obj\\",
+      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\SimleOperations and Calculations\\04. Inches to Cm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
