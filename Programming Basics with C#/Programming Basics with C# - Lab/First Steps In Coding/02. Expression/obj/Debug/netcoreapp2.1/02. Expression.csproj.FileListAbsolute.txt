@@ -1,0 +1,11 @@
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\bin\Debug\netcoreapp2.1\02. Expression.deps.json
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\bin\Debug\netcoreapp2.1\02. Expression.runtimeconfig.json
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\bin\Debug\netcoreapp2.1\02. Expression.runtimeconfig.dev.json
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\bin\Debug\netcoreapp2.1\02. Expression.dll
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\bin\Debug\netcoreapp2.1\02. Expression.pdb
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\obj\Debug\netcoreapp2.1\02. Expression.csprojAssemblyReference.cache
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\obj\Debug\netcoreapp2.1\02. Expression.csproj.CoreCompileInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\obj\Debug\netcoreapp2.1\02. Expression.AssemblyInfoInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\obj\Debug\netcoreapp2.1\02. Expression.AssemblyInfo.cs
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\obj\Debug\netcoreapp2.1\02. Expression.dll
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\02. Expression\obj\Debug\netcoreapp2.1\02. Expression.pdb

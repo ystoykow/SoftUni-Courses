@@ -1,0 +1,11 @@
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\bin\Debug\netcoreapp2.1\01. Hello SoftUni.deps.json
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\bin\Debug\netcoreapp2.1\01. Hello SoftUni.runtimeconfig.json
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\bin\Debug\netcoreapp2.1\01. Hello SoftUni.runtimeconfig.dev.json
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\bin\Debug\netcoreapp2.1\01. Hello SoftUni.dll
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\bin\Debug\netcoreapp2.1\01. Hello SoftUni.pdb
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\obj\Debug\netcoreapp2.1\01. Hello SoftUni.csprojAssemblyReference.cache
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\obj\Debug\netcoreapp2.1\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\obj\Debug\netcoreapp2.1\01. Hello SoftUni.AssemblyInfoInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\obj\Debug\netcoreapp2.1\01. Hello SoftUni.AssemblyInfo.cs
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\obj\Debug\netcoreapp2.1\01. Hello SoftUni.dll
+F:\SoftUni-Courses\Programming Basics with C#\Programming Basics with C# - Lab\First Steps In Coding\01. Hello SoftUni\obj\Debug\netcoreapp2.1\01. Hello SoftUni.pdb
