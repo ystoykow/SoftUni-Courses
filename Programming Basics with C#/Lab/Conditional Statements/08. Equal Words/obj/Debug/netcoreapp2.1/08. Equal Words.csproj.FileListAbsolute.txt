@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\bin\Debug\netcoreapp2.1\08. Equal Words.deps.json
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\bin\Debug\netcoreapp2.1\08. Equal Words.runtimeconfig.json
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\bin\Debug\netcoreapp2.1\08. Equal Words.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\bin\Debug\netcoreapp2.1\08. Equal Words.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\bin\Debug\netcoreapp2.1\08. Equal Words.pdb
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\obj\Debug\netcoreapp2.1\08. Equal Words.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\obj\Debug\netcoreapp2.1\08. Equal Words.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\obj\Debug\netcoreapp2.1\08. Equal Words.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\obj\Debug\netcoreapp2.1\08. Equal Words.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\08. Equal Words\obj\Debug\netcoreapp2.1\08. Equal Words.pdb

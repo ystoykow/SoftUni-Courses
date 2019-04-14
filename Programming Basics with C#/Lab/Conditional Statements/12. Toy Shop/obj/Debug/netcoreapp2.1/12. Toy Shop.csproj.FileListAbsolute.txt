@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\bin\Debug\netcoreapp2.1\12. Toy Shop.deps.json
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\bin\Debug\netcoreapp2.1\12. Toy Shop.runtimeconfig.json
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\bin\Debug\netcoreapp2.1\12. Toy Shop.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\bin\Debug\netcoreapp2.1\12. Toy Shop.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\bin\Debug\netcoreapp2.1\12. Toy Shop.pdb
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\obj\Debug\netcoreapp2.1\12. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\obj\Debug\netcoreapp2.1\12. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\obj\Debug\netcoreapp2.1\12. Toy Shop.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\obj\Debug\netcoreapp2.1\12. Toy Shop.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\12. Toy Shop\obj\Debug\netcoreapp2.1\12. Toy Shop.pdb

@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp2.1\02. Greater Number.deps.json
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp2.1\02. Greater Number.runtimeconfig.json
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp2.1\02. Greater Number.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp2.1\02. Greater Number.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\bin\Debug\netcoreapp2.1\02. Greater Number.pdb
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp2.1\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp2.1\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp2.1\02. Greater Number.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp2.1\02. Greater Number.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsLab\02. Greater Number\obj\Debug\netcoreapp2.1\02. Greater Number.pdb

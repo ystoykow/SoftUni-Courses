@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\bin\Debug\netcoreapp2.1\07. Choreography.deps.json
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\bin\Debug\netcoreapp2.1\07. Choreography.runtimeconfig.json
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\bin\Debug\netcoreapp2.1\07. Choreography.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\bin\Debug\netcoreapp2.1\07. Choreography.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\bin\Debug\netcoreapp2.1\07. Choreography.pdb
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\obj\Debug\netcoreapp2.1\07. Choreography.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\obj\Debug\netcoreapp2.1\07. Choreography.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\obj\Debug\netcoreapp2.1\07. Choreography.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\obj\Debug\netcoreapp2.1\07. Choreography.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\07. Choreography\obj\Debug\netcoreapp2.1\07. Choreography.pdb

@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.deps.json
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.runtimeconfig.json
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\bin\Debug\netcoreapp2.1\02. Bonus Score.pdb
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\02. Bonus Score\obj\Debug\netcoreapp2.1\02. Bonus Score.pdb

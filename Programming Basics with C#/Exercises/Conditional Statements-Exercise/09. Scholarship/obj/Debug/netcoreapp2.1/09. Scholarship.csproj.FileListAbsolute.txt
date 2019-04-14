@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\bin\Debug\netcoreapp2.1\09. Scholarship.deps.json
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\bin\Debug\netcoreapp2.1\09. Scholarship.runtimeconfig.json
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\bin\Debug\netcoreapp2.1\09. Scholarship.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\bin\Debug\netcoreapp2.1\09. Scholarship.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\bin\Debug\netcoreapp2.1\09. Scholarship.pdb
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\obj\Debug\netcoreapp2.1\09. Scholarship.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\obj\Debug\netcoreapp2.1\09. Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\obj\Debug\netcoreapp2.1\09. Scholarship.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\obj\Debug\netcoreapp2.1\09. Scholarship.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\obj\Debug\netcoreapp2.1\09. Scholarship.dll
+C:\Users\Qwko\source\repos\ConditionalStatementsExercise\09. Scholarship\obj\Debug\netcoreapp2.1\09. Scholarship.pdb
