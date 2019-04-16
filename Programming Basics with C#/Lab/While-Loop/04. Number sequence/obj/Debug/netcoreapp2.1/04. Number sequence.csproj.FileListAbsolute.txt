@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\bin\Debug\netcoreapp2.1\04. Number sequence.deps.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\bin\Debug\netcoreapp2.1\04. Number sequence.runtimeconfig.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\bin\Debug\netcoreapp2.1\04. Number sequence.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\bin\Debug\netcoreapp2.1\04. Number sequence.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\bin\Debug\netcoreapp2.1\04. Number sequence.pdb
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\obj\Debug\netcoreapp2.1\04. Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\obj\Debug\netcoreapp2.1\04. Number sequence.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\obj\Debug\netcoreapp2.1\04. Number sequence.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\obj\Debug\netcoreapp2.1\04. Number sequence.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\obj\Debug\netcoreapp2.1\04. Number sequence.pdb
+C:\Users\Qwko\source\repos\While-Loop - Lab\04. Number sequence\obj\Debug\netcoreapp2.1\04. Number sequence.csprojAssemblyReference.cache

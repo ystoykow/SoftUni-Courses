@@ -1,0 +1,21 @@
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.pdb
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.deps.json
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.runtimeconfig.json
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.runtimeconfig.dev.json
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.dll
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\bin\Debug\netcoreapp2.1\02. Number Pyramid.pdb
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.csprojAssemblyReference.cache
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.csproj.CoreCompileInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.AssemblyInfoInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.AssemblyInfo.cs
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.dll
+F:\SoftUni-Courses\Programming Basics with C#\Exercises\Nested Loops - Exercise\02. Number Pyramid\obj\Debug\netcoreapp2.1\02. Number Pyramid.pdb

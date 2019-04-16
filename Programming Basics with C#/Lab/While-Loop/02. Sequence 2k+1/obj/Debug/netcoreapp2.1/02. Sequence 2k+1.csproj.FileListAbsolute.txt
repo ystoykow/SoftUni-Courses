@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\bin\Debug\netcoreapp2.1\02. Sequence 2k+1.deps.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\bin\Debug\netcoreapp2.1\02. Sequence 2k+1.runtimeconfig.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\bin\Debug\netcoreapp2.1\02. Sequence 2k+1.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\bin\Debug\netcoreapp2.1\02. Sequence 2k+1.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\bin\Debug\netcoreapp2.1\02. Sequence 2k+1.pdb
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\obj\Debug\netcoreapp2.1\02. Sequence 2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\obj\Debug\netcoreapp2.1\02. Sequence 2k+1.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\obj\Debug\netcoreapp2.1\02. Sequence 2k+1.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\obj\Debug\netcoreapp2.1\02. Sequence 2k+1.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\02. Sequence 2k+1\obj\Debug\netcoreapp2.1\02. Sequence 2k+1.pdb

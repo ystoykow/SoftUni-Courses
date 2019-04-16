@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\bin\Debug\netcoreapp2.1\05. Walking.deps.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\bin\Debug\netcoreapp2.1\05. Walking.runtimeconfig.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\bin\Debug\netcoreapp2.1\05. Walking.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\bin\Debug\netcoreapp2.1\05. Walking.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\bin\Debug\netcoreapp2.1\05. Walking.pdb
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\obj\Debug\netcoreapp2.1\05. Walking.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\obj\Debug\netcoreapp2.1\05. Walking.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\obj\Debug\netcoreapp2.1\05. Walking.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\obj\Debug\netcoreapp2.1\05. Walking.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\05. Walking\obj\Debug\netcoreapp2.1\05. Walking.pdb

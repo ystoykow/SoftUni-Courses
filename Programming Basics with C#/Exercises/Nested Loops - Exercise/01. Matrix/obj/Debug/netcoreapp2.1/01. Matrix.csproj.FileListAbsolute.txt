@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\bin\Debug\netcoreapp2.1\01. Matrix.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\bin\Debug\netcoreapp2.1\01. Matrix.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\bin\Debug\netcoreapp2.1\01. Matrix.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\bin\Debug\netcoreapp2.1\01. Matrix.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\bin\Debug\netcoreapp2.1\01. Matrix.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\obj\Debug\netcoreapp2.1\01. Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\obj\Debug\netcoreapp2.1\01. Matrix.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\obj\Debug\netcoreapp2.1\01. Matrix.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\obj\Debug\netcoreapp2.1\01. Matrix.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\obj\Debug\netcoreapp2.1\01. Matrix.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\01. Matrix\obj\Debug\netcoreapp2.1\01. Matrix.csprojAssemblyReference.cache

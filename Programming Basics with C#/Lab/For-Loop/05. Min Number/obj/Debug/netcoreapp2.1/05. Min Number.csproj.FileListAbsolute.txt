@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\bin\Debug\netcoreapp2.1\05. Min Number.deps.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\bin\Debug\netcoreapp2.1\05. Min Number.runtimeconfig.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\bin\Debug\netcoreapp2.1\05. Min Number.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\bin\Debug\netcoreapp2.1\05. Min Number.dll
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\bin\Debug\netcoreapp2.1\05. Min Number.pdb
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\obj\Debug\netcoreapp2.1\05. Min Number.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\obj\Debug\netcoreapp2.1\05. Min Number.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\obj\Debug\netcoreapp2.1\05. Min Number.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\obj\Debug\netcoreapp2.1\05. Min Number.dll
+C:\Users\Qwko\source\repos\For-Loop - Lab\05. Min Number\obj\Debug\netcoreapp2.1\05. Min Number.pdb

@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\bin\Debug\netcoreapp2.1\07. Trade Commissions.deps.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\bin\Debug\netcoreapp2.1\07. Trade Commissions.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\bin\Debug\netcoreapp2.1\07. Trade Commissions.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\bin\Debug\netcoreapp2.1\07. Trade Commissions.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\bin\Debug\netcoreapp2.1\07. Trade Commissions.pdb
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\obj\Debug\netcoreapp2.1\07. Trade Commissions.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\obj\Debug\netcoreapp2.1\07. Trade Commissions.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\obj\Debug\netcoreapp2.1\07. Trade Commissions.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\obj\Debug\netcoreapp2.1\07. Trade Commissions.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\07. Trade Commissions\obj\Debug\netcoreapp2.1\07. Trade Commissions.pdb

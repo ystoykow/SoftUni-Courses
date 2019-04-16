@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.deps.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\bin\Debug\netcoreapp2.1\02. Small Shop.pdb
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\02. Small Shop\obj\Debug\netcoreapp2.1\02. Small Shop.pdb

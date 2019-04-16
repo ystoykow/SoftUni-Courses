@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\bin\Debug\netcoreapp2.1\10. Volleyball.deps.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\bin\Debug\netcoreapp2.1\10. Volleyball.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\bin\Debug\netcoreapp2.1\10. Volleyball.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\bin\Debug\netcoreapp2.1\10. Volleyball.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\bin\Debug\netcoreapp2.1\10. Volleyball.pdb
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\obj\Debug\netcoreapp2.1\10. Volleyball.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\obj\Debug\netcoreapp2.1\10. Volleyball.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\obj\Debug\netcoreapp2.1\10. Volleyball.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\obj\Debug\netcoreapp2.1\10. Volleyball.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\obj\Debug\netcoreapp2.1\10. Volleyball.pdb
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\10. Volleyball\obj\Debug\netcoreapp2.1\10. Volleyball.csprojAssemblyReference.cache

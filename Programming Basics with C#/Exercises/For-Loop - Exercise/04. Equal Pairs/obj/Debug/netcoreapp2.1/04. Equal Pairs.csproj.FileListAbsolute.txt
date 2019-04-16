@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\bin\Debug\netcoreapp2.1\04. Equal Pairs.deps.json
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\bin\Debug\netcoreapp2.1\04. Equal Pairs.runtimeconfig.json
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\bin\Debug\netcoreapp2.1\04. Equal Pairs.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\bin\Debug\netcoreapp2.1\04. Equal Pairs.dll
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\bin\Debug\netcoreapp2.1\04. Equal Pairs.pdb
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\obj\Debug\netcoreapp2.1\04. Equal Pairs.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\obj\Debug\netcoreapp2.1\04. Equal Pairs.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\obj\Debug\netcoreapp2.1\04. Equal Pairs.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\obj\Debug\netcoreapp2.1\04. Equal Pairs.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\obj\Debug\netcoreapp2.1\04. Equal Pairs.dll
+C:\Users\Qwko\source\repos\For-Loop - Exercise\04. Equal Pairs\obj\Debug\netcoreapp2.1\04. Equal Pairs.pdb

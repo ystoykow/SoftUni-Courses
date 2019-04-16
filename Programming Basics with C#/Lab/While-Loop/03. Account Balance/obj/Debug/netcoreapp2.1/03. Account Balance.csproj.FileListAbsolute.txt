@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\bin\Debug\netcoreapp2.1\03. Account Balance.deps.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\bin\Debug\netcoreapp2.1\03. Account Balance.runtimeconfig.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\bin\Debug\netcoreapp2.1\03. Account Balance.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\bin\Debug\netcoreapp2.1\03. Account Balance.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\bin\Debug\netcoreapp2.1\03. Account Balance.pdb
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\obj\Debug\netcoreapp2.1\03. Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\obj\Debug\netcoreapp2.1\03. Account Balance.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\obj\Debug\netcoreapp2.1\03. Account Balance.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\obj\Debug\netcoreapp2.1\03. Account Balance.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\03. Account Balance\obj\Debug\netcoreapp2.1\03. Account Balance.pdb

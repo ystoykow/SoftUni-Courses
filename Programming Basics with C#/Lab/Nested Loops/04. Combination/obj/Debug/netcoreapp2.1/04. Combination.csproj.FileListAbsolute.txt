@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\bin\Debug\netcoreapp2.1\04. Combination.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\bin\Debug\netcoreapp2.1\04. Combination.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\bin\Debug\netcoreapp2.1\04. Combination.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\bin\Debug\netcoreapp2.1\04. Combination.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\bin\Debug\netcoreapp2.1\04. Combination.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\obj\Debug\netcoreapp2.1\04. Combination.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\obj\Debug\netcoreapp2.1\04. Combination.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\obj\Debug\netcoreapp2.1\04. Combination.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\obj\Debug\netcoreapp2.1\04. Combination.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\04. Combination\obj\Debug\netcoreapp2.1\04. Combination.pdb

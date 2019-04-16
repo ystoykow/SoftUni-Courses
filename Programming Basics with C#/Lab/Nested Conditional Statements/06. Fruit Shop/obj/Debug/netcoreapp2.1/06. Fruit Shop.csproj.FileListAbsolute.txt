@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\bin\Debug\netcoreapp2.1\06. Fruit Shop.deps.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\bin\Debug\netcoreapp2.1\06. Fruit Shop.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\bin\Debug\netcoreapp2.1\06. Fruit Shop.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\bin\Debug\netcoreapp2.1\06. Fruit Shop.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\bin\Debug\netcoreapp2.1\06. Fruit Shop.pdb
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\obj\Debug\netcoreapp2.1\06. Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\obj\Debug\netcoreapp2.1\06. Fruit Shop.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\obj\Debug\netcoreapp2.1\06. Fruit Shop.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\obj\Debug\netcoreapp2.1\06. Fruit Shop.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\06. Fruit Shop\obj\Debug\netcoreapp2.1\06. Fruit Shop.pdb

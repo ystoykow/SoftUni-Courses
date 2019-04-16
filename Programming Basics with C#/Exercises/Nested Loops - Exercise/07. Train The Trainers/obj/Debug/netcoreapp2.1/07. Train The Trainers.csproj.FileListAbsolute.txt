@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\bin\Debug\netcoreapp2.1\07. Train The Trainers.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\bin\Debug\netcoreapp2.1\07. Train The Trainers.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\bin\Debug\netcoreapp2.1\07. Train The Trainers.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\bin\Debug\netcoreapp2.1\07. Train The Trainers.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\bin\Debug\netcoreapp2.1\07. Train The Trainers.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\obj\Debug\netcoreapp2.1\07. Train The Trainers.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\obj\Debug\netcoreapp2.1\07. Train The Trainers.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\obj\Debug\netcoreapp2.1\07. Train The Trainers.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\obj\Debug\netcoreapp2.1\07. Train The Trainers.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\07. Train The Trainers\obj\Debug\netcoreapp2.1\07. Train The Trainers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\bin\Debug\netcoreapp2.1\09. Clever Lily.deps.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\bin\Debug\netcoreapp2.1\09. Clever Lily.runtimeconfig.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\bin\Debug\netcoreapp2.1\09. Clever Lily.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\bin\Debug\netcoreapp2.1\09. Clever Lily.dll
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\bin\Debug\netcoreapp2.1\09. Clever Lily.pdb
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\obj\Debug\netcoreapp2.1\09. Clever Lily.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\obj\Debug\netcoreapp2.1\09. Clever Lily.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\obj\Debug\netcoreapp2.1\09. Clever Lily.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\obj\Debug\netcoreapp2.1\09. Clever Lily.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\obj\Debug\netcoreapp2.1\09. Clever Lily.dll
+C:\Users\Qwko\source\repos\For-Loop - Lab\09. Clever Lily\obj\Debug\netcoreapp2.1\09. Clever Lily.pdb

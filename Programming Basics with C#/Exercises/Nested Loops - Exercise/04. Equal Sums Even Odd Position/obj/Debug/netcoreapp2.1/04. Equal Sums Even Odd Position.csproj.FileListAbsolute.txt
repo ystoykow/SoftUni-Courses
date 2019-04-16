@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\bin\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\04. Equal Sums Even Odd Position\obj\Debug\netcoreapp2.1\04. Equal Sums Even Odd Position.pdb

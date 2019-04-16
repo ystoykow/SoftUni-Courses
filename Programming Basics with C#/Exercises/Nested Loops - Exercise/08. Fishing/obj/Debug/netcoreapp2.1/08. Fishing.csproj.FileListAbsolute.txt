@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\bin\Debug\netcoreapp2.1\08. Fishing.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\bin\Debug\netcoreapp2.1\08. Fishing.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\bin\Debug\netcoreapp2.1\08. Fishing.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\bin\Debug\netcoreapp2.1\08. Fishing.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\bin\Debug\netcoreapp2.1\08. Fishing.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\obj\Debug\netcoreapp2.1\08. Fishing.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\obj\Debug\netcoreapp2.1\08. Fishing.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\obj\Debug\netcoreapp2.1\08. Fishing.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\obj\Debug\netcoreapp2.1\08. Fishing.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\08. Fishing\obj\Debug\netcoreapp2.1\08. Fishing.pdb

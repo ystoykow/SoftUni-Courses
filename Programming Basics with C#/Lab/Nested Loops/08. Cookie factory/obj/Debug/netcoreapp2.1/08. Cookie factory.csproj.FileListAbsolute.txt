@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\bin\Debug\netcoreapp2.1\08. Cookie factory.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\bin\Debug\netcoreapp2.1\08. Cookie factory.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\bin\Debug\netcoreapp2.1\08. Cookie factory.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\bin\Debug\netcoreapp2.1\08. Cookie factory.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\bin\Debug\netcoreapp2.1\08. Cookie factory.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\obj\Debug\netcoreapp2.1\08. Cookie factory.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\obj\Debug\netcoreapp2.1\08. Cookie factory.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\obj\Debug\netcoreapp2.1\08. Cookie factory.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\obj\Debug\netcoreapp2.1\08. Cookie factory.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\08. Cookie factory\obj\Debug\netcoreapp2.1\08. Cookie factory.pdb

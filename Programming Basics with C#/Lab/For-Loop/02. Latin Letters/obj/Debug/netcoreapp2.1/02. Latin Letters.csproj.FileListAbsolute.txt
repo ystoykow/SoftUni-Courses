@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp2.1\02. Latin Letters.deps.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp2.1\02. Latin Letters.runtimeconfig.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp2.1\02. Latin Letters.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp2.1\02. Latin Letters.dll
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\bin\Debug\netcoreapp2.1\02. Latin Letters.pdb
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp2.1\02. Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp2.1\02. Latin Letters.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp2.1\02. Latin Letters.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp2.1\02. Latin Letters.dll
+C:\Users\Qwko\source\repos\For-Loop - Lab\02. Latin Letters\obj\Debug\netcoreapp2.1\02. Latin Letters.pdb

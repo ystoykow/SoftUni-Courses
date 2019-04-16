@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp2.1\02. Exam Preparation.deps.json
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp2.1\02. Exam Preparation.runtimeconfig.json
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp2.1\02. Exam Preparation.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp2.1\02. Exam Preparation.dll
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\bin\Debug\netcoreapp2.1\02. Exam Preparation.pdb
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp2.1\02. Exam Preparation.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp2.1\02. Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp2.1\02. Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp2.1\02. Exam Preparation.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp2.1\02. Exam Preparation.dll
+C:\Users\Qwko\source\repos\While-Loop - Exercise\02. Exam Preparation\obj\Debug\netcoreapp2.1\02. Exam Preparation.pdb

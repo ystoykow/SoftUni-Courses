@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.deps.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\bin\Debug\netcoreapp2.1\03. Point in Rectangle.pdb
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Lab\03. Point in Rectangle\obj\Debug\netcoreapp2.1\03. Point in Rectangle.pdb

@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\bin\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\bin\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\bin\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\bin\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\bin\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\05. Equal Sums Left Right Position\obj\Debug\netcoreapp2.1\05. Equal Sums Left Right Position.pdb

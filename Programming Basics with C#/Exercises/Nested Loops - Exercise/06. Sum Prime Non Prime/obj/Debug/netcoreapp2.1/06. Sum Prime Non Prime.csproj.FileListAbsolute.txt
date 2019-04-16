@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\06. Sum Prime Non Prime.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\06. Sum Prime Non Prime.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\06. Sum Prime Non Prime.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\06. Sum Prime Non Prime.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\bin\Debug\netcoreapp2.1\06. Sum Prime Non Prime.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\06. Sum Prime Non Prime.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\06. Sum Prime Non Prime.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\06. Sum Prime Non Prime.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\06. Sum Prime Non Prime.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\06. Sum Prime Non Prime.dll
+C:\Users\Qwko\source\repos\Nested Loops - Exercise\06. Sum Prime Non Prime\obj\Debug\netcoreapp2.1\06. Sum Prime Non Prime.pdb

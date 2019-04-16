@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\bin\Debug\netcoreapp2.1\04. Max Number.deps.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\bin\Debug\netcoreapp2.1\04. Max Number.runtimeconfig.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\bin\Debug\netcoreapp2.1\04. Max Number.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\bin\Debug\netcoreapp2.1\04. Max Number.dll
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\bin\Debug\netcoreapp2.1\04. Max Number.pdb
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\obj\Debug\netcoreapp2.1\04. Max Number.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\obj\Debug\netcoreapp2.1\04. Max Number.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\obj\Debug\netcoreapp2.1\04. Max Number.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\obj\Debug\netcoreapp2.1\04. Max Number.dll
+C:\Users\Qwko\source\repos\For-Loop - Lab\04. Max Number\obj\Debug\netcoreapp2.1\04. Max Number.pdb

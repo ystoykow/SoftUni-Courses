@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp2.1\09. On Time for the Exam.deps.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp2.1\09. On Time for the Exam.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp2.1\09. On Time for the Exam.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp2.1\09. On Time for the Exam.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\bin\Debug\netcoreapp2.1\09. On Time for the Exam.pdb
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp2.1\09. On Time for the Exam.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp2.1\09. On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp2.1\09. On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp2.1\09. On Time for the Exam.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp2.1\09. On Time for the Exam.dll
+C:\Users\Qwko\source\repos\Nested Conditional Statements - Exercise\09. On Time for the Exam\obj\Debug\netcoreapp2.1\09. On Time for the Exam.pdb

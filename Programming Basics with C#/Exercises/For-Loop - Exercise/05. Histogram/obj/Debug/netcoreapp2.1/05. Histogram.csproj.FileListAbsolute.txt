@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\bin\Debug\netcoreapp2.1\05. Histogram.deps.json
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\bin\Debug\netcoreapp2.1\05. Histogram.runtimeconfig.json
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\bin\Debug\netcoreapp2.1\05. Histogram.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\bin\Debug\netcoreapp2.1\05. Histogram.dll
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\bin\Debug\netcoreapp2.1\05. Histogram.pdb
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\obj\Debug\netcoreapp2.1\05. Histogram.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\obj\Debug\netcoreapp2.1\05. Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\obj\Debug\netcoreapp2.1\05. Histogram.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\obj\Debug\netcoreapp2.1\05. Histogram.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\obj\Debug\netcoreapp2.1\05. Histogram.dll
+C:\Users\Qwko\source\repos\For-Loop - Exercise\05. Histogram\obj\Debug\netcoreapp2.1\05. Histogram.pdb

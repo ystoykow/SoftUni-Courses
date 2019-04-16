@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\bin\Debug\netcoreapp2.1\06. Divide without remainder.deps.json
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\bin\Debug\netcoreapp2.1\06. Divide without remainder.runtimeconfig.json
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\bin\Debug\netcoreapp2.1\06. Divide without remainder.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\bin\Debug\netcoreapp2.1\06. Divide without remainder.dll
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\bin\Debug\netcoreapp2.1\06. Divide without remainder.pdb
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\obj\Debug\netcoreapp2.1\06. Divide without remainder.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\obj\Debug\netcoreapp2.1\06. Divide without remainder.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\obj\Debug\netcoreapp2.1\06. Divide without remainder.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\obj\Debug\netcoreapp2.1\06. Divide without remainder.dll
+C:\Users\Qwko\source\repos\For-Loop - Exercise\06. Divide without remainder\obj\Debug\netcoreapp2.1\06. Divide without remainder.pdb

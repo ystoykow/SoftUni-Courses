@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\bin\Debug\netcoreapp2.1\05. Building.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\bin\Debug\netcoreapp2.1\05. Building.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\bin\Debug\netcoreapp2.1\05. Building.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\bin\Debug\netcoreapp2.1\05. Building.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\bin\Debug\netcoreapp2.1\05. Building.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\obj\Debug\netcoreapp2.1\05. Building.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\obj\Debug\netcoreapp2.1\05. Building.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\obj\Debug\netcoreapp2.1\05. Building.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\obj\Debug\netcoreapp2.1\05. Building.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\05. Building\obj\Debug\netcoreapp2.1\05. Building.pdb

@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\bin\Debug\netcoreapp2.1\06. Travelling.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\bin\Debug\netcoreapp2.1\06. Travelling.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\bin\Debug\netcoreapp2.1\06. Travelling.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\bin\Debug\netcoreapp2.1\06. Travelling.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\bin\Debug\netcoreapp2.1\06. Travelling.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\obj\Debug\netcoreapp2.1\06. Travelling.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\obj\Debug\netcoreapp2.1\06. Travelling.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\obj\Debug\netcoreapp2.1\06. Travelling.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\obj\Debug\netcoreapp2.1\06. Travelling.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\06. Travelling\obj\Debug\netcoreapp2.1\06. Travelling.pdb

@@ -1,0 +1,11 @@
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\bin\Debug\netcoreapp2.1\01. Numbers Nto1.deps.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\bin\Debug\netcoreapp2.1\01. Numbers Nto1.runtimeconfig.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\bin\Debug\netcoreapp2.1\01. Numbers Nto1.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\bin\Debug\netcoreapp2.1\01. Numbers Nto1.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\bin\Debug\netcoreapp2.1\01. Numbers Nto1.pdb
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\netcoreapp2.1\01. Numbers Nto1.csprojAssemblyReference.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\netcoreapp2.1\01. Numbers Nto1.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\netcoreapp2.1\01. Numbers Nto1.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\netcoreapp2.1\01. Numbers Nto1.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\netcoreapp2.1\01. Numbers Nto1.dll
+C:\Users\Qwko\source\repos\Nested Loops - Lab\01. Numbers Nto1\obj\Debug\netcoreapp2.1\01. Numbers Nto1.pdb

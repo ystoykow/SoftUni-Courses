@@ -1,0 +1,10 @@
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\bin\Debug\netcoreapp2.1\06. Graduation.deps.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\bin\Debug\netcoreapp2.1\06. Graduation.runtimeconfig.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\bin\Debug\netcoreapp2.1\06. Graduation.runtimeconfig.dev.json
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\bin\Debug\netcoreapp2.1\06. Graduation.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\bin\Debug\netcoreapp2.1\06. Graduation.pdb
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\obj\Debug\netcoreapp2.1\06. Graduation.csproj.CoreCompileInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\obj\Debug\netcoreapp2.1\06. Graduation.AssemblyInfoInputs.cache
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\obj\Debug\netcoreapp2.1\06. Graduation.AssemblyInfo.cs
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\obj\Debug\netcoreapp2.1\06. Graduation.dll
+C:\Users\Qwko\source\repos\While-Loop - Lab\06. Graduation\obj\Debug\netcoreapp2.1\06. Graduation.pdb
