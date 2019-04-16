@@ -1,0 +1,11 @@
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.deps.json
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.runtimeconfig.json
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.runtimeconfig.dev.json
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.dll
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\bin\Debug\netcoreapp2.1\03. Cooking Factory.pdb
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.csprojAssemblyReference.cache
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.csproj.CoreCompileInputs.cache
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.AssemblyInfoInputs.cache
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.AssemblyInfo.cs
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.dll
+C:\Users\yStoykow\source\repos\Demo TechnFund Mid Exam - 02 March 2019\03. Cooking Factory\obj\Debug\netcoreapp2.1\03. Cooking Factory.pdb

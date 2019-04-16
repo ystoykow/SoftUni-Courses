@@ -1,0 +1,11 @@
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.deps.json
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.runtimeconfig.json
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.runtimeconfig.dev.json
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.dll
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\bin\Debug\netcoreapp2.1\02. Seize the Fire.pdb
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.csprojAssemblyReference.cache
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.csproj.CoreCompileInputs.cache
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.AssemblyInfoInputs.cache
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.AssemblyInfo.cs
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.dll
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\02. Seize the Fire\obj\Debug\netcoreapp2.1\02. Seize the Fire.pdb

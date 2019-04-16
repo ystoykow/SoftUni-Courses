@@ -1,0 +1,11 @@
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.deps.json
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.runtimeconfig.json
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.runtimeconfig.dev.json
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.dll
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\bin\Debug\netcoreapp2.1\03. The Final Quest.pdb
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.csprojAssemblyReference.cache
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.csproj.CoreCompileInputs.cache
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.AssemblyInfoInputs.cache
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.AssemblyInfo.cs
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.dll
+C:\Users\yStoykow\source\repos\TechnFund Mid Exam - 10 March 2019 Group 2\03. The Final Quest\obj\Debug\netcoreapp2.1\03. The Final Quest.pdb

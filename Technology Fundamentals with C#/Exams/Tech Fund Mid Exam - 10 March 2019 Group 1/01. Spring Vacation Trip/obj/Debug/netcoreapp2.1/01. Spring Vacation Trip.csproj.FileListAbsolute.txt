@@ -1,0 +1,11 @@
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.deps.json
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.runtimeconfig.json
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.runtimeconfig.dev.json
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.dll
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\bin\Debug\netcoreapp2.1\01. Spring Vacation Trip.pdb
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.csprojAssemblyReference.cache
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.csproj.CoreCompileInputs.cache
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.AssemblyInfoInputs.cache
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.AssemblyInfo.cs
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.dll
+C:\Users\yStoykow\source\repos\TechFundMid Exam - 10 March 2019 Group 1\01. Spring Vacation Trip\obj\Debug\netcoreapp2.1\01. Spring Vacation Trip.pdb
