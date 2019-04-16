@@ -1,0 +1,10 @@
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\bin\Debug\netcoreapp2.1\03. Football Souvenirs.deps.json
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\bin\Debug\netcoreapp2.1\03. Football Souvenirs.runtimeconfig.json
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\bin\Debug\netcoreapp2.1\03. Football Souvenirs.runtimeconfig.dev.json
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\bin\Debug\netcoreapp2.1\03. Football Souvenirs.dll
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\bin\Debug\netcoreapp2.1\03. Football Souvenirs.pdb
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\obj\Debug\netcoreapp2.1\03. Football Souvenirs.csproj.CoreCompileInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\obj\Debug\netcoreapp2.1\03. Football Souvenirs.AssemblyInfoInputs.cache
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\obj\Debug\netcoreapp2.1\03. Football Souvenirs.AssemblyInfo.cs
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\obj\Debug\netcoreapp2.1\03. Football Souvenirs.dll
+F:\SoftUni-Courses\Programming Basics with C#\Exams\PBOnline Exam - 28 and 29 July 2018\03. Football Souvenirs\obj\Debug\netcoreapp2.1\03. Football Souvenirs.pdb
