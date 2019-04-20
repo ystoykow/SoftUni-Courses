@@ -46,17 +46,17 @@ namespace _02._Nascar_Qualifications
                     {
                         int indexOf = racer.IndexOf(tokens[1]);
 
-                        if (indexOf+1 - int.Parse(tokens[2]) > 0)
+                        if (indexOf + 1 - int.Parse(tokens[2]) > 0)
                         {
                             racer.Remove(tokens[1]);
-                            racer.Insert(indexOf+ - int.Parse(tokens[2]), tokens[1]);
+                            racer.Insert(indexOf + -int.Parse(tokens[2]), tokens[1]);
                         }
                     }
 
                 }
                 input = Console.ReadLine();
             }
-            Console.WriteLine(string.Join(" ~ ",racer));
+            Console.WriteLine(string.Join(" ~ ", racer));
         }
     }
 }

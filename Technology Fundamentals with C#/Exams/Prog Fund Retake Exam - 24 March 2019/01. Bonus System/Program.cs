@@ -1,8 +1,7 @@
-﻿using System;
-using System.Linq;
-
-namespace _01._Bonus_System
+﻿namespace _01._Bonus_System
 {
+    using System;
+
     class Program
     {
         static void Main(string[] args)
@@ -17,18 +16,20 @@ namespace _01._Bonus_System
             {
                 students[i] = initialBonus;
             }
+
             for (int i = 0; i < students.Length; i++)
             {
                 int attendance = int.Parse(Console.ReadLine());
 
                 double totalAttendance = Math.Round((attendance / (lecturesCount * 1.0)) * (5 + initialBonus));
                 students[i] = (int)totalAttendance;
-                if (students[i]>maxBonus)
+                if (students[i] > maxBonus)
                 {
                     maxBonus = students[i];
                     maxLection = attendance;
                 }
             }
+
             Console.WriteLine($"The maximum bonus score for this course is {maxBonus}.The student has attended {maxLection} lectures.");
         }
     }

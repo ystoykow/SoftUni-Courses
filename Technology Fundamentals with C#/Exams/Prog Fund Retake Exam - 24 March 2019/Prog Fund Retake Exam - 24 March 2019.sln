@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Bonus System", "01. Bonus System\01. Bonus System.csproj", "{70266CB9-D4D8-4047-96EE-55F7BAD48739}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Bonus System", "01. Bonus System\01. Bonus System.csproj", "{DB8F0903-9EA2-4720-9FB2-B4B354BF1245}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Nascar Qualifications", "02. Nascar Qualifications\02. Nascar Qualifications.csproj", "{75A024F5-E9BF-416F-AD87-38E3B00F8262}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Nascar Qualifications", "02. Nascar Qualifications\02. Nascar Qualifications.csproj", "{02369A2B-12F3-429C-AE44-5D9D0E50F30F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Emoji Sumator", "03. Emoji Sumator\03. Emoji Sumator.csproj", "{A9475938-2E9A-4816-9A50-2F38B342DE39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Emoji Sumator", "03. Emoji Sumator\03. Emoji Sumator.csproj", "{FCC5B0DF-0863-4141-B061-654A5A89BA56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,23 +15,23 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{70266CB9-D4D8-4047-96EE-55F7BAD48739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{70266CB9-D4D8-4047-96EE-55F7BAD48739}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{70266CB9-D4D8-4047-96EE-55F7BAD48739}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{70266CB9-D4D8-4047-96EE-55F7BAD48739}.Release|Any CPU.Build.0 = Release|Any CPU
-		{75A024F5-E9BF-416F-AD87-38E3B00F8262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{75A024F5-E9BF-416F-AD87-38E3B00F8262}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{75A024F5-E9BF-416F-AD87-38E3B00F8262}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{75A024F5-E9BF-416F-AD87-38E3B00F8262}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9475938-2E9A-4816-9A50-2F38B342DE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9475938-2E9A-4816-9A50-2F38B342DE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9475938-2E9A-4816-9A50-2F38B342DE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9475938-2E9A-4816-9A50-2F38B342DE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8F0903-9EA2-4720-9FB2-B4B354BF1245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8F0903-9EA2-4720-9FB2-B4B354BF1245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8F0903-9EA2-4720-9FB2-B4B354BF1245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8F0903-9EA2-4720-9FB2-B4B354BF1245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02369A2B-12F3-429C-AE44-5D9D0E50F30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02369A2B-12F3-429C-AE44-5D9D0E50F30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02369A2B-12F3-429C-AE44-5D9D0E50F30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02369A2B-12F3-429C-AE44-5D9D0E50F30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC5B0DF-0863-4141-B061-654A5A89BA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC5B0DF-0863-4141-B061-654A5A89BA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC5B0DF-0863-4141-B061-654A5A89BA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC5B0DF-0863-4141-B061-654A5A89BA56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {76407C0F-1D9C-4712-8E2C-67DD5D919002}
+		SolutionGuid = {94708F53-12F9-4549-8D6A-5925DD1A1919}
 	EndGlobalSection
 EndGlobal
