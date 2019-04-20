@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\ConditionalStatementsLab\\ConditionalStatementsLab\\01. ExcellentResult.csproj",
+      "projectUniqueName": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\Conditional Statements\\01. ExcellentResult\\01. ExcellentResult.csproj",
       "projectName": "01. ExcellentResult",
-      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\ConditionalStatementsLab\\ConditionalStatementsLab\\01. ExcellentResult.csproj",
+      "projectPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\Conditional Statements\\01. ExcellentResult\\01. ExcellentResult.csproj",
       "packagesPath": "C:\\Users\\yStoykow\\.nuget\\packages\\",
-      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\ConditionalStatementsLab\\ConditionalStatementsLab\\obj\\",
+      "outputPath": "F:\\SoftUni-Courses\\Programming Basics with C#\\Lab\\Conditional Statements\\01. ExcellentResult\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
