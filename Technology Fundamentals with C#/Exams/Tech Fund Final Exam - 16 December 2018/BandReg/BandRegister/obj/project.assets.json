@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yStoykow\\Desktop\\webapp\\WebExam\\BandReg\\BandRegister\\BandRegister.csproj",
+      "projectUniqueName": "F:\\SoftUni-Courses\\Technology Fundamentals with C#\\Exams\\Tech Fund Final Exam - 16 December 2018\\BandReg\\BandRegister\\BandRegister.csproj",
       "projectName": "BandRegister",
-      "projectPath": "C:\\Users\\yStoykow\\Desktop\\webapp\\WebExam\\BandReg\\BandRegister\\BandRegister.csproj",
+      "projectPath": "F:\\SoftUni-Courses\\Technology Fundamentals with C#\\Exams\\Tech Fund Final Exam - 16 December 2018\\BandReg\\BandRegister\\BandRegister.csproj",
       "packagesPath": "C:\\Users\\yStoykow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yStoykow\\Desktop\\webapp\\WebExam\\BandReg\\BandRegister\\obj\\",
+      "outputPath": "F:\\SoftUni-Courses\\Technology Fundamentals with C#\\Exams\\Tech Fund Final Exam - 16 December 2018\\BandReg\\BandRegister\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Arriving in Kathmandu", "01. Arriving in Kathmandu\01. Arriving in Kathmandu.csproj", "{FB021429-F53D-4BE2-A554-8F31644D7678}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. On the Way to Annapurna", "02. On the Way to Annapurna\02. On the Way to Annapurna.csproj", "{FCB140E2-0178-4180-BE0A-7021161B1AF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB021429-F53D-4BE2-A554-8F31644D7678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB021429-F53D-4BE2-A554-8F31644D7678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB021429-F53D-4BE2-A554-8F31644D7678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB021429-F53D-4BE2-A554-8F31644D7678}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB140E2-0178-4180-BE0A-7021161B1AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB140E2-0178-4180-BE0A-7021161B1AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB140E2-0178-4180-BE0A-7021161B1AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB140E2-0178-4180-BE0A-7021161B1AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A136FB64-0F5E-47D2-8FD1-3A9433D17B8A}
+	EndGlobalSection
+EndGlobal
