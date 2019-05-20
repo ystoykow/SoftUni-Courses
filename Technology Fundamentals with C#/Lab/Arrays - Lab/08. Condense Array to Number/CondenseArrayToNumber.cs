@@ -8,6 +8,7 @@
         public static void Main()
         {
             int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
             while (numbers.Length != 1)
             {
                 int[] result = new int[numbers.Length - 1];
@@ -19,6 +20,7 @@
 
                 numbers = result;
             }
+
             Console.WriteLine(numbers[0]);
         }
     }
