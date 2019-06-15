@@ -6,10 +6,11 @@
 
     public class ListManipulationAdvanced
     {
-        public static void Main(string[] args)
+        public static void Main()
         {
             List<int> numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
             string[] commands = Console.ReadLine().Split();
+
             int count = 0;
             while (commands[0] != "end")
             {
