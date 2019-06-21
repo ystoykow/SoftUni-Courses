@@ -17,7 +17,6 @@
     {
         public static void Main()
         {
-            Dictionary<string, List<double>> salaries = new Dictionary<string, List<double>>();
             int countEmployers = int.Parse(Console.ReadLine());
             List<Employee> listEmployee = new List<Employee>();
             for (int i = 0; i < countEmployers; i++)
@@ -34,37 +33,17 @@
                 };
 
                 listEmployee.Add(employee);
-
-                if (!salaries.ContainsKey(employee.Department))
-                {
-                    salaries.Add(employee.Department, new List<double>());
-                }
-
-                salaries[employee.Department].Add(employee.Salary);
-
             }
 
-            double bestAvg = 0;
-            string bestdep = string.Empty;
+            double avgSalary = 0;
+            string highestDepartment = string.Empty;
             foreach (var department in listEmployee.Select(d => d.Department))
             {
-                var avg = listEmployee.Where(d => d.Department == department).Select(s => s.Salary).Average();
-                if (bestAvg < avg)
+                var currentAvgSalary = listEmployee.Where(d => d.Department == department).Select(s => s.Salary).Average();
+                if (avgSalary < currentAvgSalary)
                 {
-                    bestAvg = avg;
-                    bestdep = department;
-                }
-            }
-
-            string highestDepartment = string.Empty;
-            double avgSalary = 0;
-            foreach (var salary in salaries)
-            {
-                double current = salary.Value.Average();
-                if (current > avgSalary)
-                {
-                    avgSalary = current;
-                    highestDepartment = salary.Key;
+                    avgSalary = currentAvgSalary;
+                    highestDepartment = department;
                 }
             }
 
