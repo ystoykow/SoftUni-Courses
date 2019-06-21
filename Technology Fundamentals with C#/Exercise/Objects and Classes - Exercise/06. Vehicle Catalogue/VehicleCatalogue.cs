@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
-namespace _06._Vehicle_Catalogue
+﻿namespace _06._Vehicle_Catalogue
 {
     using System;
     using System.Collections.Generic;
@@ -35,7 +33,6 @@ namespace _06._Vehicle_Catalogue
 
                 return vehicleStr;
             }
-
         }
 
         public static void Main()
@@ -61,14 +58,11 @@ namespace _06._Vehicle_Catalogue
                 input = Console.ReadLine();
             }
 
-            List<Vehicle> cars = listVehicles.Where(x => x.Type == "car").ToList();
-            List<Vehicle> trucks = listVehicles.Where(x => x.Type == "truck").ToList();
+            double avgCarHP = listVehicles.Where(x=>x.Type=="car").Select(x => x.HorsePower).DefaultIfEmpty(0).Average();
+            double avgTruckHP = listVehicles.Where(x => x.Type == "truck").Select(x => x.HorsePower).DefaultIfEmpty(0).Average();
 
-            double aavgCarHP = listVehicles.Where(x=>x.Type=="car").Select(x => x.HorsePower).DefaultIfEmpty(0).Average();
-            double aavgTruckHP = listVehicles.Where(x => x.Type == "truck").Select(x => x.HorsePower).DefaultIfEmpty(0).Average();
-
-            Console.WriteLine($"Cars have average horsepower of: {aavgCarHP:f2}.");
-            Console.WriteLine($"Trucks have average horsepower of: {aavgTruckHP:f2}.");
+            Console.WriteLine($"Cars have average horsepower of: {avgCarHP:f2}.");
+            Console.WriteLine($"Trucks have average horsepower of: {avgTruckHP:f2}.");
         }
     }
 }
