@@ -1,12 +1,24 @@
-﻿using System;
-
-namespace _02._Ascii_Sumator
+﻿namespace _02._Ascii_Sumator
 {
-    class Program
+    using System;
+
+    public class AsciiSumator
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            char to = char.Parse(Console.ReadLine());
+            char from = char.Parse(Console.ReadLine());
+            string text = Console.ReadLine();
+            int sum = 0;
+            for (int i = 0; i < text.Length; i++)
+            {
+                if (from > text[i] && to < text[i])
+                {
+                    sum += text[i];
+                }
+            }
+
+            Console.WriteLine(sum);
         }
     }
 }
