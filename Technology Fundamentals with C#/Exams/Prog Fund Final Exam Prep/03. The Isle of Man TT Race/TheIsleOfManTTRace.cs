@@ -1,9 +1,9 @@
-﻿using System;
-using System.Text.RegularExpressions;
-
-namespace _03._The_Isle_of_Man_TT_Race
+﻿namespace _03._The_Isle_of_Man_TT_Race
 {
-   public class TheIsleOfManTTRace
+    using System;
+    using System.Text.RegularExpressions;
+
+    public class TheIsleOfManTTRace
     {
        public static void Main()
         {
